@@ -1,7 +1,7 @@
-Equazioni parametriche
-===================
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 
+Equazioni parametriche
+===================
 Le equazioni parametriche sono equazioni nelle quali, oltre all'incognita **x**, compaiono anche una o più altre lettere. Tali lettere si chiamano parametri.
 
 $$(k-1)x^2+kx+k-5=0$$
