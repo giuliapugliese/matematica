@@ -7,8 +7,8 @@ Le equazioni parametriche sono equazioni nelle quali, oltre all'incognita **x**,
 $$(k-1)x^2+kx+k-5=0$$
 
 ----------
-Coefficienti **a**, **b** e **c**
--------------
+###Coefficienti **a**, **b** e **c**
+
 
 La prima cosa importante da fare è riconoscere i coefficienti **a**, **b** e **c** ricordando che:
 
